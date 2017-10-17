@@ -3,6 +3,15 @@
   color: blue;
 }
 
+.fade-button {
+  cursor: pointer;
+  color: red;
+}
+
+.fade-button:hover {
+  text-decoration: underline;
+}
+
 .button:hover {
   text-decoration: underline;
 }
